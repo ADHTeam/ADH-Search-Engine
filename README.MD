@@ -6,7 +6,6 @@ Preliminary Project Plan (Phase 0)
 By ADH Team
 
 [Team Website](http://paris.utdallas.edu/adhteam/)
-[Project GitHub](https://github.com/ADHTeam/ADH-Search-Engine)
 
 Submitted as deliverable 0 of course SE 6362/001 2017 Fall Semester 1 on 8/30/17 
 
@@ -27,6 +26,14 @@ rank its output, so that pages with higher rank will appear first in the search 
 |2                  |10-Oct-17 |Final Project I submission                          |
 |3                  |9-Nov-17  |Interim Project II submission                       |
 |4                  |28-Nov-17 |Final Project II submission, presentation and demo  |
+
+### Definitions, acronyms and abbreviations
+|CSS	|Cascading Style Sheets     |
+|GUI	|Graphical User Interface   |
+|DBMS	|Database Management System |
+|OS	    |Operating System           |
+|HTML	|Hyper Text Markup Language |
+|J2EE	|Java 2 Enterprise Edition  |
 
 
 
