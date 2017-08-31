@@ -72,6 +72,18 @@ The following table lists the tools that we are going to use in our project.
 |MS Project             |Planning the activities of the project                 |
 |GitHub                 |Storing our project in a shared repository             |
 
+Finally, the following the table lists all the programming/scripting languages and frameworks that we are going to use in our project.
+|**Language/Framework** |**Purpose**                                                |
+|:---------------------:|:---------------------------------------------------------:|
+|Java	                |Implementation of the project                              |
+|J2EE	                |Taking advantage of its API for our multitier architecture |
+|JUnit                  |For conducting unit/integration tests                      |
+|PHP+Joomla             |Team website                                               |
+|Apache Tomcat          |For writing our web search engine                          |
+|HTML+CSS               |GUI                                                        |
+
+
+
 
 This is an ADHTeam project. This project only use for study purpose of SE 6362.
 
