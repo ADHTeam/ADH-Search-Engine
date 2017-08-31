@@ -73,6 +73,7 @@ The following table lists the tools that we are going to use in our project.
 |GitHub                 |Storing our project in a shared repository             |
 
 Finally, the following the table lists all the programming/scripting languages and frameworks that we are going to use in our project.
+
 |**Language/Framework** |**Purpose**                                                |
 |:---------------------:|:---------------------------------------------------------:|
 |Java	                |Implementation of the project                              |
