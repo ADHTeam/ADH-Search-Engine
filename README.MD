@@ -28,14 +28,14 @@ rank its output, so that pages with higher rank will appear first in the search 
 |4                  |28-Nov-17 |Final Project II submission, presentation and demo  |
 
 ### Definitions, acronyms and abbreviations
-|       |                           |
-|------:|:--------------------------|
-|CSS	|Cascading Style Sheets     |
-|GUI	|Graphical User Interface   |
-|DBMS	|Database Management System |
-|OS	    |Operating System           |
-|HTML	|Hyper Text Markup Language |
-|J2EE	|Java 2 Enterprise Edition  |
+|**Word**|**Definition**             |
+|-------:|:--------------------------|
+|CSS	 |Cascading Style Sheets     |
+|GUI	 |Graphical User Interface   |
+|DBMS	 |Database Management System |
+|OS	     |Operating System           |
+|HTML	 |Hyper Text Markup Language |
+|J2EE	 |Java 2 Enterprise Edition  |
 
 
 
