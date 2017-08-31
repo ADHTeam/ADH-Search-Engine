@@ -84,12 +84,11 @@ Finally, the following the table lists all the programming/scripting languages a
 |HTML+CSS               |GUI                                                        |
 
 
+## Concluding Remarks
+This project is undertaken and is being done by the team ADH.
 
+Its sole purpose is to do the course project of the course SE 6362.
 
-This is an ADHTeam project. This project only use for study purpose of SE 6362.
+Our team members are Ali Ghanbari, Dongcheng Li, and Haoliang Wang.
 
-Our team member includes: Ali Ghanbari, Dongcheng Li, Haoliang Wang.
-
-SPMP is the initial proposal of the ADH Search Engine.
-
-All charts that we used are in ADHTeam Charts.xlsx
+All charts that we have used can also be found in the file ```ADHTeam Charts.xlsx```
